@@ -1,2 +1,3 @@
-# CS-422-Data-Mining
-CS 422 Data Mining
+# Data-Mining
+
+## Data Mining
